@@ -1,0 +1,49 @@
+{
+    "MINI Cooper SE 3 Door": {
+        "name": "MINI Cooper SE 3 Door",
+        "id": "1",
+        "lbBG": "car-.webp",
+        "biopic": "car-.webp",
+        "bio": "It's MINI at its most evolved – fusing our hallmark design and handling with instantaneous. "
+    },
+
+    "Mini Cooper JCW GP": {
+        "name": "Mini Cooper JCW GP",
+        "id": "2",
+        "lbBG": "mini-cooper.jpeg",
+        "biopic": "mini-cooper.png",
+        "bio": "The Mini Cooper JCW GP's little four-cylinder engine puts out 301 horsepower."
+    },
+
+    "The Mini John Cooper Works 3 Door.": {
+        "name": "Mini Works-3 Door",
+        "id": "3",
+        "lbBG": "car-10.jpg",
+        "biopic": "car-10.png",
+        "bio": "Boasting up to 301 hp and 331 ft/lb of torque, And with a top speed of 246 km/h." 
+    },
+
+    "Mini Hatch": {
+        "name":"Mini Hatch",
+        "id":"4",
+        "lbBG": "car-9.webp",
+        "biopic":"car-9.png",
+        "bio": "This stylized as MINI Hatch, is also sold as Mini Cooper, or simply called the (BMW) Mini."
+    },
+
+    "Mini Cooper S 5 Door": {
+        "name":"Mini S 5 Door",
+        "id":"5",
+        "lbBG": "car-6.webp",
+        "biopic":"car-6.png",
+        "bio": "The MINI 5 door the same corner-carving agility that made its 3-door brother famous."
+    },
+
+    "Mini Cooper S": {
+        "name":"Mini Cooper S",
+        "id":"6",
+        "lbBG": "car-7.jpeg",
+        "biopic":"car-7.png",
+        "bio": "Mini says the Cooper S can accelerate from zero to 60 mph in 7 seconds."
+    }
+  }
